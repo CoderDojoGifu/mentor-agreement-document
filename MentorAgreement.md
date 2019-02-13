@@ -58,7 +58,7 @@ CoderDojo岐阜　主宰：hello@coderdojo-gifu.org
 
 ***
 最終更新日と文書バージョン  
-2019年2月7日、バージョン1.0
+2019年2月13日、バージョン1.1
 
 ***
 forked from: [CoderDojo西宮/梅田メンター同意書](https://github.com/coderdojo-nishinomiya-umeda/document)
